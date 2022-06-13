@@ -5,3 +5,7 @@
 * result.txt
 * result.csv
 
+実行ファイル
+```
+$ python3 main.py
+```
